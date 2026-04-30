@@ -34,7 +34,7 @@ More projects → [View all repositories](https://github.com/Kassa-G-Weldemariam
 
 ### Let's Connect & Build Something Smart!
 📫 Email: kassagebrekidan550@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/feed/ 
+🔗 LinkedIn: https://www.linkedin.com/in/kassa-g-weldemariam-857559356/
 💬 Open to feedback, AI/web project ideas, pair programming, or freelance opportunities!
 
 
