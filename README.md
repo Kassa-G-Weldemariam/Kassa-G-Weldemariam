@@ -175,12 +175,12 @@ JavaScript • HTML • CSS • Frontend Architecture
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kassa-G-Weldemariam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Kassa-G-Weldemariam&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=Kassa-G-Weldemariam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=Kassa-G-Weldemariam&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kassa-G-Weldemariam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kassa-G-Weldemariam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
