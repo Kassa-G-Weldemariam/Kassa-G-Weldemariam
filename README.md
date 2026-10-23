@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Kassa Gebrekidan
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Aspiring+AI+Engineer;Building+Intelligent+Applications" alt="Full-Stack Developer, Aspiring AI Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Mobile+App+Developer;Aspiring+AI+Engineer;Building+Intelligent+Applications" alt="Full-Stack Developer, Mobile App Developer, Aspiring AI Engineer" />
 
 ### Full-Stack Developer | Aspiring AI Engineer
 
@@ -12,7 +12,7 @@ I am an Information Systems student at Addis Ababa University, Ethiopia, buildin
   <a href="https://github.com/Kassa-G-Weldemariam">
     <img src="https://img.shields.io/github/followers/Kassa-G-Weldemariam?style=for-the-badge&logo=github" alt="GitHub followers"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Kassa-G-Weldemariam&style=for-the-badge&color=0ea5e9" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Kassa-G-Weldemariam&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile views"/>
 </p>
 
 </div>
