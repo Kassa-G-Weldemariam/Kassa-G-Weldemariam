@@ -2,11 +2,11 @@
 
 # Hi 👋, I'm Kassa Gebrekidan
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=720&lines=Aspiring+AI+Engineer;Full-Stack+Developer;Building+Intelligent+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Aspiring+AI+Engineer;Building+Intelligent+Applications" alt="Full-Stack Developer, Aspiring AI Engineer" />
 
-### Aspiring AI Engineer • Full-Stack Developer
+### Full-Stack Developer | Aspiring AI Engineer
 
-I build full-stack web apps and backend systems with varied technologies, and I'm leveling up toward AI engineering so those apps can think, adapt, and actually help people.
+I am an Information Systems student at Addis Ababa University, Ethiopia, building full-stack applications and backend systems with varied technologies while developing toward AI application engineering.
 
 <p>
   <a href="https://github.com/Kassa-G-Weldemariam">
@@ -21,13 +21,7 @@ I build full-stack web apps and backend systems with varied technologies, and I'
 
 ## 👨‍💻 About Me
 
-Hi — I'm **Kassa Gebrekidan**, an **Information Systems** student at **Addis Ababa University** in Ethiopia.
-
-I care about using technology to tackle social problems and ship apps that feel smart, not just pretty. Day to day I work with **full-stack technologies**, **REST APIs**, and **backend systems**; longer term I'm pushing into **AI/ML** so I can add features that learn and respond to users.
-
-You'll find me shipping things like e-commerce clones, discussion forums, course projects, and UI experiments — always trying to write cleaner code than last time. If I can ship something useful and keep growing as a developer, I'm on the right track.
-
-I'm working toward becoming an **AI Engineer** — someone who can take a real need, build the full stack around it, and weave in intelligent behavior where it matters.
+I'm **Kassa Gebrekidan**, an **Information Systems** student at **Addis Ababa University** in Ethiopia. I build full-stack applications and backend systems with different frameworks, APIs, and databases, while developing my skills toward practical AI application engineering.
 
 ---
 
@@ -40,13 +34,14 @@ I'm working toward becoming an **AI Engineer** — someone who can take a real n
   <a href="https://github.com/Kassa-G-Weldemariam" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:kassagebrekidan550@gmail.com">
+  <a href="mailto:kassa.g.weldemariam@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-📍 <b>Addis Ababa, Ethiopia</b> · Open to freelance / remote full-stack roles, internships, AI/web projects & collaborations
+📍 <b>Addis Ababa, Ethiopia</b><br>
+💼 Open to internships, remote roles, freelance projects & collaborations
 </p>
 
 ---
@@ -57,8 +52,6 @@ I'm working toward becoming an **AI Engineer** — someone who can take a real n
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -74,14 +67,36 @@ I'm working toward becoming an **AI Engineer** — someone who can take a real n
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### AI Interest & Development Tools
+### DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Development Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML_Integration-111827?style=for-the-badge)
+
+### AI Application Development
+
+Learning interests: **AI/ML**, **LLMs**, and **RAG**.
+
+![AI/ML](https://img.shields.io/badge/AI%2FML-Learning-111827?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-Learning-7C3AED?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Learning-2563EB?style=for-the-badge)
 
 ---
 
@@ -91,16 +106,16 @@ I'm working toward becoming an **AI Engineer** — someone who can take a real n
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Amazon Clone 2025
+### 🌾 AgriSpark
 
-Full-featured e-commerce app with products, cart, orders, and JWT authentication — showcasing an end-to-end full-stack flow.
+Mobile agricultural marketplace connecting farmers, buyers, and administrators, with product, order, chat, and AI assistant features.
 
 **Tech Stack**
 
-Node.js • Express • MySQL • HTML/CSS/JS • JWT
+React Native • Expo • Supabase • PostgreSQL
 
 <p align="center">
-<a href="https://github.com/Kassa-G-Weldemariam/Amazon-clone-2025">
+<a href="https://github.com/Kassa-G-Weldemariam/Agrispark">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Repository"/>
 </a>
 </p>
@@ -110,11 +125,11 @@ Node.js • Express • MySQL • HTML/CSS/JS • JWT
 
 ### 💬 Evangadi Forum
 
-Community discussion platform with users, posts, replies, and a REST API — great practice for scalable full-stack apps.
+Full-stack question-and-answer platform for authenticated users to ask questions and post answers.
 
 **Tech Stack**
 
-Node.js • Express • MySQL • HTML/CSS/JS
+React • Vite • Node.js • Express • MySQL • JWT
 
 <p align="center">
 <a href="https://github.com/Kassa-G-Weldemariam/Evangadi-forum">
@@ -127,16 +142,16 @@ Node.js • Express • MySQL • HTML/CSS/JS
 <tr>
 <td width="50%" valign="top">
 
-### 📚 FullStackOpen
+### 🎓 Alumni Connect
 
-Hands-on full-stack learning: React frontend components, Node/Express backends, REST APIs, and state management.
+Alumni networking platform built as a full-stack web application.
 
 **Tech Stack**
 
-React • Node.js • Express • MongoDB • REST APIs
+React • Vite • Node.js • Express • PostgreSQL • Supabase
 
 <p align="center">
-<a href="https://github.com/Kassa-G-Weldemariam/FullStackOpen">
+<a href="https://github.com/abera-hiluf/KSHS-ALUMUNAI-HUB">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Repository"/>
 </a>
 </p>
@@ -144,16 +159,16 @@ React • Node.js • Express • MongoDB • REST APIs
 </td>
 <td width="50%" valign="top">
 
-### 🎬 Netflix Clone 2025
+### 📄 Digital Correspondence Management System (DCMS)
 
-Streaming UI clone with a modern JavaScript frontend and strong foundation for backend integration.
+Document correspondence management monorepo with a FastAPI backend, database migrations, and a Next.js frontend.
 
 **Tech Stack**
 
-JavaScript • HTML • CSS • Frontend Architecture
+FastAPI • PostgreSQL • Alembic • Next.js
 
 <p align="center">
-<a href="https://github.com/Kassa-G-Weldemariam/Netflix-clone-2025">
+<a href="https://github.com/N5IZ/ATI-Document-Corespondent-Mgt-System">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Repository"/>
 </a>
 </p>
@@ -189,34 +204,9 @@ JavaScript • HTML • CSS • Frontend Architecture
 
 ---
 
-## 📖 Currently Learning
+## 🔎 Currently Exploring
 
-- Deeper **full-stack** patterns (cleaner React, stronger Express APIs)
-- **TypeScript**, **Next.js**, and **FastAPI**
-- Auth flows with **JWT** and safer API design
-- How to plug **AI/ML** into everyday web features
-- Basics of **GenAI**, **LLMs**, and **RAG**
-- Deploying apps so other people can actually use them
-
----
-
-## 🎯 Current Focus
-
-- Shipping solid full-stack projects end to end — UI, API, database, auth
-- Getting more comfortable with TypeScript, Next.js, and FastAPI
-- Turning “AI interest” into small, working features inside real apps
-- Writing code I’m proud to show in interviews and freelance work
-- Staying open to feedback, pair programming, and new collaborations
-
----
-
-## 🚀 Goals
-
-- Grow into a capable **AI Engineer**, not just a title on a bio
-- Get dangerously good at full-stack development, APIs, and backend design
-- Build tools that help communities and small businesses, not only demos
-- Land freelance / remote gigs and junior full-stack roles where I can learn fast
-- Keep shipping — every project a step closer to production-quality work
+CI/CD, cloud deployment, and practical AI application patterns including **LLMs** and **RAG**.
 
 ---
 
