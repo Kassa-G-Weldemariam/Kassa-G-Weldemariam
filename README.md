@@ -12,7 +12,7 @@ I am an Information Systems student at Addis Ababa University, Ethiopia, buildin
   <a href="https://github.com/Kassa-G-Weldemariam">
     <img src="https://img.shields.io/github/followers/Kassa-G-Weldemariam?style=for-the-badge&logo=github" alt="GitHub followers"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Kassa-G-Weldemariam&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Kassa-G-Weldemariam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 </div>
