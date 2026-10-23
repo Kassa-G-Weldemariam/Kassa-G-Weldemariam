@@ -2,11 +2,11 @@
 
 # Hi 👋, I'm Kassa Gebrekidan
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=720&lines=Aspiring+AI+Engineer;MERN+Stack+Developer;Building+Intelligent+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=720&lines=Aspiring+AI+Engineer;Full-Stack+Developer;Building+Intelligent+Applications" />
 
-### Aspiring AI Engineer • MERN Stack Developer • Full Stack
+### Aspiring AI Engineer • Full-Stack Developer
 
-I build full-stack web apps with the MERN stack — and I'm leveling up toward AI engineering so those apps can think, adapt, and actually help people.
+I build full-stack web apps and backend systems with varied technologies, and I'm leveling up toward AI engineering so those apps can think, adapt, and actually help people.
 
 <p>
   <a href="https://github.com/Kassa-G-Weldemariam">
@@ -23,7 +23,7 @@ I build full-stack web apps with the MERN stack — and I'm leveling up toward A
 
 Hi — I'm **Kassa Gebrekidan**, an **Information Systems** student at **Addis Ababa University** in Ethiopia.
 
-I care about using technology to tackle social problems and ship apps that feel smart, not just pretty. Day to day I work with the **MERN stack**, **REST APIs**, and **backend systems**; longer term I'm pushing into **AI/ML** so I can add features that learn and respond to users.
+I care about using technology to tackle social problems and ship apps that feel smart, not just pretty. Day to day I work with **full-stack technologies**, **REST APIs**, and **backend systems**; longer term I'm pushing into **AI/ML** so I can add features that learn and respond to users.
 
 You'll find me shipping things like e-commerce clones, discussion forums, course projects, and UI experiments — always trying to write cleaner code than last time. If I can ship something useful and keep growing as a developer, I'm on the right track.
 
@@ -46,7 +46,7 @@ I'm working toward becoming an **AI Engineer** — someone who can take a real n
 </p>
 
 <p align="center">
-📍 <b>Addis Ababa, Ethiopia</b> · Open to freelance / remote MERN roles, internships, AI/web projects & collaborations
+📍 <b>Addis Ababa, Ethiopia</b> · Open to freelance / remote full-stack roles, internships, AI/web projects & collaborations
 </p>
 
 ---
@@ -93,7 +93,7 @@ I'm working toward becoming an **AI Engineer** — someone who can take a real n
 
 ### 🛒 Amazon Clone 2025
 
-Full-featured e-commerce app with products, cart, orders, and JWT authentication — showcasing an end-to-end MERN-like flow.
+Full-featured e-commerce app with products, cart, orders, and JWT authentication — showcasing an end-to-end full-stack flow.
 
 **Tech Stack**
 
@@ -129,7 +129,7 @@ Node.js • Express • MySQL • HTML/CSS/JS
 
 ### 📚 FullStackOpen
 
-Hands-on MERN learning: React frontend components, Node/Express backends, REST APIs, and state management.
+Hands-on full-stack learning: React frontend components, Node/Express backends, REST APIs, and state management.
 
 **Tech Stack**
 
@@ -191,7 +191,7 @@ JavaScript • HTML • CSS • Frontend Architecture
 
 ## 📖 Currently Learning
 
-- Deeper **MERN** patterns (cleaner React, stronger Express APIs)
+- Deeper **full-stack** patterns (cleaner React, stronger Express APIs)
 - **TypeScript**, **Next.js**, and **FastAPI**
 - Auth flows with **JWT** and safer API design
 - How to plug **AI/ML** into everyday web features
@@ -202,7 +202,7 @@ JavaScript • HTML • CSS • Frontend Architecture
 
 ## 🎯 Current Focus
 
-- Shipping solid MERN projects end to end — UI, API, database, auth
+- Shipping solid full-stack projects end to end — UI, API, database, auth
 - Getting more comfortable with TypeScript, Next.js, and FastAPI
 - Turning “AI interest” into small, working features inside real apps
 - Writing code I’m proud to show in interviews and freelance work
@@ -213,7 +213,7 @@ JavaScript • HTML • CSS • Frontend Architecture
 ## 🚀 Goals
 
 - Grow into a capable **AI Engineer**, not just a title on a bio
-- Get dangerously good at MERN, APIs, and backend design
+- Get dangerously good at full-stack development, APIs, and backend design
 - Build tools that help communities and small businesses, not only demos
 - Land freelance / remote gigs and junior full-stack roles where I can learn fast
 - Keep shipping — every project a step closer to production-quality work
